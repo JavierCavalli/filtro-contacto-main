@@ -1,6 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Queria probar como hacer un filter en react, el proyecto tiene mock data de mockaroo y la grilla esta hecha con react-bootstrap
+
+Demo:
+
+https://filtro-contacto-main.vercel.app/
 
 ## Available Scripts
 
